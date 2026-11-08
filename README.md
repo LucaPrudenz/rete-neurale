@@ -1,5 +1,7 @@
 # Rete neurale da zero
 
+**Apri l'animazione:** https://lucaprudenz.github.io/rete-neurale/
+
 Materiale per il corso: una rete neurale che impara a riconoscere cifre scritte a mano, scritta solo con NumPy, più un'animazione da proiettare in aula in cui la stessa rete si allena davvero, dentro il browser.
 
 | File | A cosa serve |
